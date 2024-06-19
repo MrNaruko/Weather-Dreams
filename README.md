@@ -7,4 +7,4 @@ Users can input weather information from different cities and enjoy the generate
 
 ## Demo
 If you specify a style, images like this can be generated based on the weather data.
-![Demo GIF]([URL-to-demo.gif](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg))
+![Demo GIF]([URL-to-demo.gif](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
