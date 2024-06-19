@@ -6,5 +6,5 @@ This project is an application that uses AI to create drawings based on weather 
 Users can input weather information from different cities and enjoy the generated artwork.
 
 ## Demo
-If you specify a style, images like this can be generated based on the weather data.<br>
+If you specify a style, images like this can be generated based on the weather data.
 ![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
