@@ -2,6 +2,7 @@
 ![License](https://img.shields.io/github/license/MrNaruko/Weather-Dreams.svg?style=flat-square&label=license&color=blue&logo=apache)<br>
 --- Credit ---<br>
 Weather API: https://openweathermap.org/api
+- The Weather API is provided under the CC BY-SA 4.0 license. (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Overview
 This project is an application that uses AI to create drawings based on weather data from various cities.<br>
