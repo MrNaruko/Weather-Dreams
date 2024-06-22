@@ -1,5 +1,7 @@
 # Weather-Dreams 0.1.0
 ![License](https://img.shields.io/github/license/MrNaruko/Weather-Dreams.svg?style=flat-square&label=license&color=blue&logo=apache)
+--- Credit ---
+Weather API: https://openweathermap.org/api
 
 ## Overview
 This project is an application that uses AI to create drawings based on weather data from various cities.<br>
