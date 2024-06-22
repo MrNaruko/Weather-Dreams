@@ -32,6 +32,9 @@ Variable name: OPENWEATHER_API_KEY
 5. Copy the URL that appears in the text box and paste it into a web browser to search.
 
 ## Examples
-![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
-![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
-![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
+City name: Delhi, Drawing style: Acrylic painting
+![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/dehili.jpg)
+City name: Sydney, Drawing style: Abstract painting
+![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/sidoni.jpg)
+City name: Tokyo, Drawing style: Watercolor
+![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/tokyo.jpg)
