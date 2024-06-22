@@ -8,3 +8,30 @@ Users can input weather information from different cities and enjoy the generate
 ## Demo
 If you specify a style, images like this can be generated from the weather data.
 ![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
+
+## Installation
+
+### Prerequisites
+- Python 3.12.4
+- OpenAI API Key
+- OpenWeather API Key
+
+### Steps
+Please follow the instructions in the official documentation to download, install, and obtain the API keys.
+
+## Usage
+
+1. Set the API key in the user environment variables.
+--- OpenAI API Key ---
+Variable name: OPENAI_API_KEY
+--- OpenWeather API Key ---
+Variable name: OPENWEATHER_API_KEY
+2. Download the Weather-Dreams folder and run "Weather-Dreams\dist\WeatherDreams.exe".
+3. Select the "city name" and "drawing style" for the weather data you want to retrieve.
+4. Press the Generate button.
+5. Copy the URL that appears in the text box and paste it into a web browser to search.
+
+## Examples
+![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
+![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
+![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
