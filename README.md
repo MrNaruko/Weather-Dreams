@@ -14,9 +14,9 @@ If you specify a style, images like this can be generated from the weather data.
 ## Installation
 
 ### Prerequisites
-- Python 3.12.4
-- OpenAI API Key(https://openai.com/api/)
-- Weather API Key(https://openweathermap.org/api)
+- Python 3.12.4 (https://www.python.org/downloads/)
+- OpenAI API Key (https://openai.com/api/)
+- Weather API Key (https://openweathermap.org/api)
 
 ### Steps
 Please follow the instructions in the official documentation to download, install, and obtain the API keys.
