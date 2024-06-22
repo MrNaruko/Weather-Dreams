@@ -6,7 +6,7 @@ This project is an application that uses AI to create drawings based on weather 
 Users can input weather information from different cities and enjoy the generated artwork.
 
 ## Demo
-If you specify a style, images like this can be generated from the weather data.
+If you specify a style, images like this can be generated from the weather data.<br>
 ![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/cyberpanktokyo.jpg)
 
 ## Installation
@@ -21,10 +21,10 @@ Please follow the instructions in the official documentation to download, instal
 
 ## Usage
 
-1. Set the API key in the user environment variables.
---- OpenAI API Key ---
-Variable name: OPENAI_API_KEY
---- OpenWeather API Key ---
+1. Set the API key in the user environment variables.<br>
+--- OpenAI API Key ---<br>
+Variable name: OPENAI_API_KEY<br>
+--- OpenWeather API Key ---<br>
 Variable name: OPENWEATHER_API_KEY
 2. Download the Weather-Dreams folder and run "Weather-Dreams\dist\WeatherDreams.exe".
 3. Select the "city name" and "drawing style" for the weather data you want to retrieve.
@@ -32,9 +32,9 @@ Variable name: OPENWEATHER_API_KEY
 5. Copy the URL that appears in the text box and paste it into a web browser to search.
 
 ## Examples
-City name: Delhi, Drawing style: Acrylic painting
-![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/dehili.jpg)
-City name: Sydney, Drawing style: Abstract painting
-![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/sidoni.jpg)
-City name: Tokyo, Drawing style: Watercolor
+City name: Delhi, Drawing style: Acrylic painting<br>
+![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/dehili.jpg)<br>
+City name: Sydney, Drawing style: Abstract painting<br>
+![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/sidoni.jpg)<br>
+City name: Tokyo, Drawing style: Watercolor<br>
 ![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/tokyo.jpg)
