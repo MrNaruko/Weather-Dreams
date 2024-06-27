@@ -4,6 +4,10 @@
 Weather API: https://openweathermap.org/api
 - The Weather API is provided under the CC BY-SA 4.0 license. (https://creativecommons.org/licenses/by-sa/4.0/)
 
+pycountry: https://pypi.org/project/pycountry/
+- pycountry is licensed under the GNU Lesser General Public License v2. (https://www.gnu.org/licenses/lgpl-3.0.html)
+
+
 ## Overview
 This project is an application that uses AI to create drawings based on weather data from various cities.<br>
 Users can input weather information from different cities and enjoy the generated artwork.
