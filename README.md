@@ -46,7 +46,7 @@ City name: Sydney, Drawing style: Abstract painting<br>
 City name: Tokyo, Drawing style: Watercolor<br>
 ![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/tokyo.jpg)
 
-##Note
+## Note
 I used generative AI to enhance the following items:
 
 ChatGPT-4:
