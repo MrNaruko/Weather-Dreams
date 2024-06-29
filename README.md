@@ -1,12 +1,5 @@
 # Weather-Dreams 0.1.0
 ![License](https://img.shields.io/github/license/MrNaruko/Weather-Dreams.svg?style=flat-square&label=license&color=blue&logo=apache)<br>
---- Credit ---<br>
-Weather API: https://openweathermap.org/api
-- The Weather API is provided under the CC BY-SA 4.0 license. (https://creativecommons.org/licenses/by-sa/4.0/)
-
-pycountry: https://pypi.org/project/pycountry/
-- pycountry is licensed under the GNU Lesser General Public License v2. (https://www.gnu.org/licenses/lgpl-3.0.html)
-
 
 ## Overview
 This project is an application that uses AI to create drawings based on weather data from various cities.<br>
@@ -55,6 +48,14 @@ ChatGPT-4:
 
 DALL-E3:
 - Application icons
+
+The following libraries are provided under licenses other than the Apache License 2.0.
+
+Weather API: https://openweathermap.org/api
+- The Weather API is provided under the CC BY-SA 4.0 license. (https://creativecommons.org/licenses/by-sa/4.0/)
+
+pycountry: https://pypi.org/project/pycountry/
+- pycountry is licensed under the GNU Lesser General Public License v2. (https://www.gnu.org/licenses/lgpl-3.0.html)
 
 
 
