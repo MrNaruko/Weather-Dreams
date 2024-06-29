@@ -45,3 +45,34 @@ City name: Sydney, Drawing style: Abstract painting<br>
 ![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/sidoni.jpg)<br>
 City name: Tokyo, Drawing style: Watercolor<br>
 ![Demo Image](https://github.com/MrNaruko/Weather-Dreams/blob/main/tokyo.jpg)
+
+##Note
+I used generative AI to enhance the following items:
+
+ChatGPT-4:
+- README examples, proofreading
+- Source code templates, debugging, refactoring
+
+DALL-E3:
+- Application icons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
