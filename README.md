@@ -57,7 +57,7 @@ Weather API: https://openweathermap.org/api
 pycountry: https://pypi.org/project/pycountry/
 - pycountry is licensed under the GNU Lesser General Public License v2. (https://www.gnu.org/licenses/lgpl-3.0.html)
 
-Python 3.12.4
+Python 3.12.4: https://www.python.org/downloads/release/python-3124/
 - Python is provided under the Python Software Foundation License. (https://docs.python.org/3/license.html)
 
 
