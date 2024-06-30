@@ -47,7 +47,7 @@ ChatGPT-4:
 - Source code templates, debugging, refactoring
 
 DALL-E3:
-- Application icons
+- Application icons(weatherdreams_icon.png)
 
 The following libraries are provided under licenses other than the Apache License 2.0.
 
