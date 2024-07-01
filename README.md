@@ -1,6 +1,10 @@
 # Weather-Dreams 0.1.0
 ![License](https://img.shields.io/github/license/MrNaruko/Weather-Dreams.svg?style=flat-square&label=license&color=blue&logo=apache)<br>
 
+---NOTICE---
+The license for "Weather-Dreams 0.1.0" is "Apache License 2.0". 
+The licenses for third-party libraries and other dependencies are detailed separately in "Weather-Dreams 0.1.0/LICENSE.txt".
+
 ## Overview
 This project is an application that uses AI to create drawings based on weather data from various cities.<br>
 Users can input weather information from different cities and enjoy the generated artwork.
