@@ -47,7 +47,7 @@ ChatGPT-4:
 - Source code templates, debugging, refactoring
 
 DALL-E3:
-- Application icons(weatherdreams_icon.png)
+- Application icons (weatherdreams_icon.png)
 
 The following libraries are provided under licenses other than the Apache License 2.0.
 
@@ -59,6 +59,9 @@ pycountry: https://pypi.org/project/pycountry/
 
 Python 3.12.4: https://www.python.org/downloads/release/python-3124/
 - Python is provided under the Python Software Foundation License. (https://docs.python.org/3/license.html)
+
+"Weather-Dreams 0.1.0" is compiled into an executable file using "pyinstaller 6.8.0".
+Pyinstaller 6.8.0 is provided under the GPL 2.0 License. (https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 
 
