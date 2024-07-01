@@ -1,7 +1,7 @@
 # Weather-Dreams 0.1.0
 ![License](https://img.shields.io/github/license/MrNaruko/Weather-Dreams.svg?style=flat-square&label=license&color=blue&logo=apache)<br>
 
----NOTICE---
+---NOTICE---<br>
 The license for "Weather-Dreams 0.1.0" is "Apache License 2.0". 
 The licenses for third-party libraries and other dependencies are detailed separately in "Weather-Dreams 0.1.0/LICENSE.txt".
 
