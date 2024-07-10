@@ -30,7 +30,7 @@ Please follow the instructions in the official documentation to download, instal
 Variable name: OPENAI_API_KEY<br>
 --- OpenWeather API Key ---<br>
 Variable name: OPENWEATHER_API_KEY
-2. Download the Weather-Dreams folder and run "Weather-Dreams\dist\WeatherDreams.exe".
+2. Download the Weather-Dreams folder and run "Weather-Dreams 0.1.0\WeatherDreams.exe".
 3. Select the "city name" and "drawing style" for the weather data you want to retrieve.
 4. Press the Generate button.
 5. Copy the URL that appears in the text box and paste it into a web browser to search.
