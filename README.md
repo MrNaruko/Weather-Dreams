@@ -6,7 +6,7 @@ The license for "Weather-Dreams 0.1.0" is "Apache License 2.0".
 The licenses for third-party libraries and other dependencies are detailed separately in "Weather-Dreams 0.1.0/LICENSE.txt".
 
 ## Release
-Please download the latest version from the release page.<br>
+Please download "Weather-Dreams 0.1.0.zip" from the release page.<br>
 Release Page URL: https://github.com/MrNaruko/Weather-Dreams/releases/tag/v0.1.0
 
 ## Overview
