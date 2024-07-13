@@ -7,7 +7,7 @@ The licenses for third-party libraries and other dependencies are detailed separ
 
 ## Release
 Please download the latest version from the release page.<br>
-URL: 
+Release Page URL: https://github.com/MrNaruko/Weather-Dreams/releases/tag/v0.1.0
 
 ## Overview
 This project is an application that uses AI to create drawings based on weather data from various cities.<br>
